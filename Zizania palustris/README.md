@@ -10,7 +10,7 @@
 
 # Introduction
 
-On New Year’s Eve 2018, the White Earth Nation of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, also known as [wild rice](https://en.wikipedia.org/wiki/Wild_rice) (_Zizania palustris_). This declaration in tribal law included manoomin’s right to exist, flourish, regenerate, and evolve. The recognition of wild rice legal rights in tribal court is one of many cases in a global movement aimed at recognizing the legal rights of species and ecosystems. It is believed to be the first case in the United States brought before a tribal court on behalf of the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature) and attempts to establish legal rights for species and ecosystems. The case reflects an assertion of the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview. 
+On New Year’s Eve 2018, the White Earth Nation of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, also known as [wild rice](https://en.wikipedia.org/wiki/Wild_rice) (_Zizania palustris_). This declaration in tribal law included manoomin’s right to exist, flourish, regenerate, and evolve. The recognition of wild rice legal rights in tribal court is one of many cases in a global movement aimed at recognizing the legal rights of species and ecosystems. It is believed to be the first case in the United States brought before a tribal court on behalf of the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature) and attempts to establish legal rights for species and ecosystems. The case reflects an assertion of the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview.[^1] 
 
 <param ve-image
 src=“wc:Wild_rice_in_McGregor,_Minnesota.jpg"
@@ -149,8 +149,39 @@ src=“wc:Pipeline_Free_Manoomin_(Honor_the_Earth).jpg"
 caption=“Wild rice from Honor the Earth."
 fit=“contain”>
 
-
-
-
-
+[^1]: “Press Release: Federal Appeals Court Denies State of Minnesota’s Bid to Take ‘Rights of Nature’ Case Away from Tribal Court.” Center for Democratic and Environmental Rights. Accessed May 24, 2025. https://www.centerforenvironmentalrights.org/news/press-release-federal-appeals-court-denies-state-of-minnesotas-bid-to-take-rights-of-nature-case-away-from-tribal-court.
+[^2]: Lillian McGilp, Claudia Castell-Miller, Matthew Haas, Rennet Millas, Jennifer Kimball, “Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation,” Crop Science 63, no. 4 (2023): 1907.
+[^3]: McGilp et al., “Northern Wild Rice (Zizania palustris L.) breeding, genetics, and conservation,” 1905.
+[^4]: Carl Linnaeus, Species Plantarum: exhibentes plantas rite cognitas ad genera relatas, cum differential specifics, nominibus trivialibus, synonymis selectis, locis natalibus, secundum systema sexuale digestas 4, pt. 1 (1753), 396-397.
+[^5]: Type and lectotype specimen details in: James L. Reveal, “Typification of the Linnaean Species of Zizania (Poaceae),” Phytologia 72, no. 1 (1992): 5-8; Edward E. Terrell et al., “Taxonomy of North American Species of Zizania (Poaceae),” Sida: Contributions to Botany (1997) 545-546.
+[^6]: The Z. palustris genome, specially, was assembled in 2021. Aurelien Bouayad, “Wild rice protectors: An Ojibwe odyssey,” Environmental Law Review 22, no. 1 (2020), 33.
+[^7]: Jennifer Kimball, “University of Minnesota Annual Wild Rice Breeding and Related Research Progress Report to the Minnesota Department of Agriculture,” Report, January 15, 2023. 
+[^8]: Michael D. McNally, “Where Food Grows on the Water: Manoomin/Wild Rice and Anishinaabe Peoplehood,” in Native Foodways: Indigenous North American Religious Traditions and Foods, ed. Michelene E. Pesantubbee, and Michael J. Zogry (Albany: State University of New York Press, 2021), 88.
+[^9]: Brittany Luby, “Treaty through a Planting Lens: A Study of Manoomin Harvesting Rights in Anishinaabe-Aki, 1873–Present,” The American Indian Quarterly 47, no. 4 (2023): 352-387.
+[^10]: McNally, “Where Food Grows on the Water,” 82. 
+[^11]: Ibid.
+[^12]: Thomas Vennum, Wild rice and the Ojibway people (St. Paul, MN: Minnesota Historical Society Press), 6.
+[^13]: Ibid., 5.
+[^14]: Ibid.
+[^15]: McNally, “Where Food Grows on the Water,” 82. 
+[^16]: “1837 Treaty,” Minnesota Department of Natural Resources, accessed August 1, 2024, https://www.dnr.state.mn.us/aboutdnr/laws_treaties/1837/index.html.
+[^17]: Marie Schaefer, “Whose Knowledge Matters? Shifting Knowledge Systems and Gender Roles in Manoomin (Wild Rice) Revitalization in the Great Lakes” (PhD thesis, Michigan State University, 2020).
+[^18]: Lisbet Koerner, Linnaeus: Nature and Nation (Cambridge, MA: Harvard University Press), 114-117; Anya Zilberstein, “Inured to Empire: Wild Rice and Climate Change,” accessed August 1, 2024, https://sophiecoeprize.wordpress.com/wp-content/uploads/2015/07/zilberstein-e28094-sophie-coe-winner-2015.pdf. 
+[^19]: Zilberstein, “Inured to Empire,” 3. 
+[^20]: Jonathan Carver, Travels through the interior parts of North-America, in the years 1766, 1767, and 1768 (Charing-Cross and Pater-Noster Row: London, 1778), 522.
+[^21]: Aylmer Bourke Lambert, “Observation on the Zizania aquatica,” Transactions of the Linnean Society of London 7 (1804): 264-265.
+[^22]: Zilberstein, “Inured to Empire,” 3-4.
+[^23]: David Dale Owen, Report of a geological survey of Wisconsin, Iowa, and Minnesota: an incidentally of a portion of Nebraska Territory: made under instructions from the United States Treasury Department (Philadelphia: Lippincott, Grambo and Company, 1852), 620.
+[^24]: Frances Densmore, How Indians Use Wild Plants: For Food, Medicine and Crafts (New York: Dover, 1974).
+[^25]: Ibid.
+[^26]: Henry R. Schoolcraft, Narrative of an expedition through the upper Mississippi to Itasca Lake, the actual source of this river embracing an exploratory trip through the St. Croix and Burntwood (or Broule) rivers in 1832, under the direction of Henry R. Schoolcraft (New York: Harper & Brothers, 1834): 34, 79.
+[^27]: Aurelien Bouayad, “Wild rice protectors: An Ojibwe odyssey,” Environmental Law Review 22, no. 1 (2020), 25-42.
+[^28]: Élisée Reclus, “The earth and its inhabitants (Vol. 1),” edited by A.H. Keane (New York: D. Appleton and Company, 1890): 214-215.
+[^29]: Albert Jenks, The wild rice gatherers of the Upper Lakes: a study in American primitive economics (Washington, D.C.: Government Printing Office, 1901), 1026. 
+[^30]: Luby, “Treaty through a Planting Lens,” 358-362.
+[^31]: Winona LaDuke, “Ricekeepers” Orion Magazine, June 25, 2007.
+[^32]: Daniel B. Marcum, “Cultivated Wild Rice Production in California” (California: University of California Agriculture and Natural Resources, 2007).
+[^33]: Luby, “Treaty through a Planting Lens,” 354.
+[^34]: “Excellent Prospects for U.S. Medium Grain, Wild Rice In Turkey Despite Market Challenges,” USA Rice, July 5, 2017, https://www.usarice.com/news-and-events/publications/usa-rice-daily/article/usa-rice-daily/2017/07/05/excellent-prospects-for-u.s.-medium-grain-wild-rice-in-turkey-despite-market-challenges; “USA Rice Goes Wild in the UK,” USA Rice, December 1, 2020, https://www.usarice.com/news-and-events/publications/usa-rice-daily/article/usa-rice-daily/2020/12/01/usa-rice-goes-wild-in-the-uk.
+[^35]: Kirsti Marohn, “Line 3: White Earth argues DNR water permit violates wild rice rights,” Minnesota Public Radio News, August 5, 2021, https://www.mprnews.org/story/2021/08/05/line-3-white-earth-argues-dnr-water-permit-violates-wild-rice-rights; Jessica Douglas, “Wild rice sues to stop oil pipeline,” High Country News, September 2, 2021, https://www.hcn.org/articles/latest-justice-wild-rice-sues-to-stop-oil-pipeline/.
 
