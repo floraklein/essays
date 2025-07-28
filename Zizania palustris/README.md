@@ -61,9 +61,9 @@ Carver and Kalm were not alone in entertaining the idea of cultivating wild rice
 However, the highly specific habitat conditions required for wild rice growth meant that early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: “This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains.” He later specified, “It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet.” Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, many of which were lost only a few decades later due to flooding caused by newly constructed dams.
 
 <param ve-image
-       src=“wc:Wild_rice_plants,_Red_Sand_Lake_-_NARA_-_285207.jpg"
-                                                                   caption=“Wild rice plants"
-       fit=“contain”>
+src=“wc:Wild_rice_plants,_Red_Sand_Lake_-_NARA_-_285207.jpg"
+caption=“Wild rice plants"
+fit=“contain”>
 
 # Harvest Histories
 
