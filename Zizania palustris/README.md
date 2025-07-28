@@ -1,8 +1,28 @@
+<a href=“https://juncture-digital.org”><img src=“https://juncture-digital.github.io/juncture/static/images/ve-button.png”></a>
+
+<param ve-config
+       title=“Insert
+       source-image=“insert
+       banner=“insert
+       height=100
+       author=“
+       layout=vertical>
+
 # Introduction
 
 On New Year’s Eve 2018, the White Earth Nation of [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) formally recognized the legal rights of manoomin, also known as [wild rice](https://en.wikipedia.org/wiki/Wild_rice) (_Zizania palustris_). This declaration in tribal law included manoomin’s right to exist, flourish, regenerate, and evolve. The recognition of wild rice legal rights in tribal court is one of many cases in a global movement aimed at recognizing the legal rights of species and ecosystems. It is believed to be the first case in the United States brought before a tribal court on behalf of the [rights of nature](https://en.wikipedia.org/wiki/Rights_of_nature) and attempts to establish legal rights for species and ecosystems. The case reflects an assertion of the close relationship between plant, people, and landscape predicated on an understanding of kinship and mutual reliance according to Indigenous worldview. 
 
+<param ve-image
+src=“wc:Wild_rice_in_McGregor,_Minnesota.jpg"
+caption=“Wild rice flowers in McGregor, Minnesota."
+fit=“contain”>
+
 Wild rice, or _Zizania palustris_, is an aquatic grass species native to the Great Lakes region of North America. Evidence of human use dates to the Late Archaic and [Early Woodlands periods](https://en.wikipedia.org/wiki/Woodland_period), around two thousand years ago. The Ojibwe are one of three tribes constituting the [Anishinaabe](https://en.wikipedia.org/wiki/Anishinaabe), or “original people,” an Indigenous nation in the Great Lakes region of North America. For the Ojibwe, wild rice is not only a foodstuff and a medicinal plant whose use dates back thousands of years; it is also considered a sacred or spiritual being with cultural and spiritual significance. Dependent on highly specific landscape conditions for growth, the history of wild rice draws upon draws upon botanical and [Traditional Ecological Knowledge](https://blog.ucs.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and reflects a close interweaving between people, place, and plant. 
+
+<param ve-image
+src=“wc:Sifting_through_newly_gathered_wild_rice_to_remove_extra_debris.jpg"
+caption=“Sifting through newly gathered wild rice to remove extra debris before parching."
+fit=“contain”>
 
 Since the 1950s, attempts at cultivating wild rice spread from Minnesota to California. Wild rice has transformed from a gourmet delicacy to a superfood staple in the advent of commercialized production and institutionalized breeding programs. Indeed, the grain boasts many health benefits, including being low in fat and high in dietary fiber, minerals, protein, and vitamins. Demand for the highly nutritious monoecious crop has prompted tensions between Indigenous growers and large-scale commercialization and commodification of the plant. A food source for humans for thousands of years, the significance of wild rice has only recently become more widely studied and understood by a broader audience, including the scientific community and general public. Issues surrounding food sovereignty, climate change-induced habitat loss, and other environmental threats, have paved the way for groundbreaking legal developments, providing environmental protections based on the recognition of wild rice as a non-human person according to Indigenous worldviews. 
 
@@ -40,19 +60,50 @@ Carver and Kalm were not alone in entertaining the idea of cultivating wild rice
 
 However, the highly specific habitat conditions required for wild rice growth meant that early cultivation attempts failed. In an 1852 United States geological survey, American geologist David Dale Owen wrote: “This grain has been frequently introduced to the attention of cultivators, and is worth of notice, not only for the value of its products, but the peculiar nature of the soil to which it is adapted, being necessarily unfit for any of our ordinary cultivated grains.” He later specified, “It is in these situations best exposed to the proper degree of inundation, and finds a suitable bed of the slimy sand, in which [wild rice] grows most readily. It is rarely met with on inland lakes which have no outlet.” Owen described the specific features of wild rice habitat, including the regular inundation, steady water flow, and relative water depth required for wild rice growth in aquatic habitats, many of which were lost only a few decades later due to flooding caused by newly constructed dams.
 
+<param ve-image
+       src=“wc:Wild_rice_plants,_Red_Sand_Lake_-_NARA_-_285207.jpg"
+                                                                   caption=“Wild rice plants"
+       fit=“contain”>
+
 # Harvest Histories
 
 In “Gathering Wild Rice, 1849-1855,” artist Seth Eastman depicts three women, most likely Anishinaabe, who are in the process of harvesting wild rice. This watercolor drawing, the first known painting of wild rice, depicts one woman paddling a canoe and two others beating rice stalks with flat paddles. American anthropologist and ethnographer Frances Densmore later captured the multi-step harvesting process in her photography from the early twentieth century. In her 1928 “How Indians Use Wild Plants for Food, Medicine, and Crafts,” Densmore describes the process of establishing harvesting camps and the act of “ricing” itself, in which Ojibwe women would harvest using birchbark canoes. When ricing, one person would paddle the canoe using a push pole (Gaandakii-iganaak), which another would knock rice stalks with special sticks (Bawa’iganaak) so that ripe rice seeds would fall into the canoe and into the lake water. After harvesting, the rice was dried on birchbark sheets, parched to loosen the husk, and pounded with wooden pastels. It would then be winnowed and trodden upon, and later stored.
 
 Cultural traditions involving wild rice were closely linked to the seasons. Many key traditional Anishinaabe ceremonies and rituals were timed in accordance with the thanksgiving for manoomin harvest. Anishinaabe harvesters would set up harvest camps, or Manoominikewin, for “ricing.” In 1820, Henry Schoolcraft, on an expedition to find the source of the Mississippi River, noted the role of wild rice as a foodstuff closely linked to seasonal change: “The necessity of changing their camps often, to procure game or fish, the want of domesticated animals, the general dependence on wild rice, and the custom of journeying in canoes, has produced a general uniformity of life.” The harvest was a multi-step process involving both men and women, who would perform different tasks.
 
+<param ve-image
+src=“wc:Chippewa_wild_rice_harvesting.jpg"
+caption=“Wild rice harvesting."
+fit=“contain”>
+
 Historically, both Ojibwe men and women performed wild rice harvesting, with men steering the canoe and women knocking the grains into the canoe. In the decades following land cessions, forced migration, and non-Indigenous settlement, the labor relations and gender roles involved in harvesting changed. During the early twentieth century, the state of Minnesota created [wild rice camps](https://www.kaxe.org/local-news/2023-09-22/wild-rice-camp-highlights-sacred-plant-and-the-fight-to-protect-it), and state control over wild rice harvesting was codified in 1939. Here, women’s labor was not recognized by settlers and wild rice harvesting became primarily a men’s role. Today, both men and women participate in the harvest, although men remain the primary harvesters. 
 
+<param ve-image
+src=“wc:Wild_rice_harvest_on_Mud_Lake,_Cass_County,_Minnesota,_September_2015.jpg"
+caption=“People harvesting wild rice."
+fit=“contain”>
+       
+ <param ve-image
+src=“wc:Using_carved_cedar_knockers_to_remove_the_ripened_wild_rice_grains_from_the_plant.jpg"
+caption=“Using carved cedar knockers to remove the ripened wild rice grains from the plant at a Wild Rice camp in Floodwood, Minnesota."
+fit=“contain”>
+
+<param ve-image
+src=“wc:Winnowing the wild rice in a birch bark basket.jpg"
+caption=“
+Winnowing the wild rice in a birch bark basket tosses away the husks while the heavier kernels fall to the bottom at a wild rice camp in Floodwood, Minnesota."
+fit=“contain”>
+                                                           
 # Landscape as Collaborator
 
 Wild rice plays an important part in the aquatic plant communities of the northern Great Lakes region. Benefitting local food networks and wetland ecology by participating in the water [nutrient cycle](https://en.wikipedia.org/wiki/Nutrient_cycle), stabilizing coastal river wetland sediment, and providing habitat for other species, wild rice requires specific landscape conditions to grow. Rooted in sediment, the plant grows along the margins of small streams and shallow lakes. Albert Jenks, a University of Minnesota professor of anthropology, noted the specific landscape conditions required for its growth in his Wild Rice Gatherers of the Upper Lakes (1907): “Wherever the last glacier left little mid-bottomed, water-filled hollows, there wild rice has established itself, if other conditions are favorable. Such ponds and lakes are characteristic of the alluvial apron spread out over Wisconsin and Minnesota.”
 
 Like other grasses, a crucial phase of the wild rice’s life cycle is the shattering of the mature seed, which is when the seed drops off the plant once it ripens. Seed heads are located at the top of the plant and ripe seeds drop from the plant into the water, sinking to the soil where they remain dormant over the winter. They usually [germinate](https://en.wikipedia.org/wiki/Germination) in the following spring. By early summer, wild rice forms floating mats of leaves and seeds cross-pollinated by wind. After reaching maturity in late summer and harvested in late summer or early autumn, the grass dies. Seed shattering occurs over days to weeks, which allows for multiple harvests to take place. 
+
+<param ve-image
+src=“wc:Zizania palustris.jpg"
+caption=“The pistilate glumes and floret, bottom, compared to the staminate spikelet, top."
+fit=“contain”>
 
 Harvesting was not only a process of gathering but also a process of reseeding the plant for future harvests. Jenks wrote that “the plant, unless it is artificially sown, is gradually being extinguished in such beds as are continuously used.” The significant portion of seeds being knocked back into water rather than harvested in the canoe was not waste, but an active management strategy. Responsive to changing environmental conditions, the reseeding during harvest treats the landscape as a collaborator: wild rice seeds require submergence in the soil during undisturbed dormancy in order to remain viable. The aquatic landscape remains an active participant in the reseeding process, which highlights the importance of the landscape in maintaining a relationship between wild rice and humans. The artificial sowing of wild rice seeds is an activation of Traditional Ecological Knowledge.
 
@@ -64,6 +115,11 @@ In the early 1960s, food product company Uncle Ben’s Inc.—now called Ben’s
 
 Cultivation is domestication occurring in real time. Today, cultivated wild rice is grown in California, Michigan, Minnesota, and Wisconsin, and is exported worldwide. Wild rice has been introduced to Turkey, and the United Kingdom is the largest export market for United States-grown cultivated wild rice. Indigenous growers mainly sell directly to domestic consumers while commercially cultivated wild rice is sold to large retailers. Increased consumer access to wild rice through commercialization, often at a lower cost to consumers, has also transformed the plant’s identity from a gourmet delicacy to a health food staple as more people are able to access and incorporate wild rice into their diet.
 
+<param ve-image
+src=“wc:Wisconsin_Wild_Rice_(30374230623).jpg"
+caption=“Wisconsin Wild Rice."
+fit=“contain”>
+
 # Recognizing the Rights of Nature
 
 Climate change poses a threat to wild rice. With rising temperatures and less ice cover, wild rice seeds, which require frozen temperatures during their dormancy, are not able to germinate as well or at all. In addition, rapid fluctuations in water depth due to severe weather events disrupt plant growth. The amount of suitable habitat shrinks. Climate change has increased both concentrated rainfall events and droughts.
@@ -72,11 +128,26 @@ Serious threats are posed to naturally occurring wild rice stands by the potenti
 
 On August 4, 2021, the White Earth Band of Ojibwe and manoomin filed a lawsuit against the Minnesota Department of Natural Resources (DNR). _Manoomin v. Minnesota Department of Natural Resources_ was the first [rights of nature](https://www.centerforenvironmentalrights.org/rights-of-manoomin) case to be brought before a tribal court. The action argued that the DNR had violated treaty rights by putting manoomin at risk by issuing an amended permit to the Enbridge corporation, who had temporarily pumped five billion gallons of water out of wild rice habitat. It asked for the DNR to nullify the pipeline water permits.
 
+<param ve-image
+src=“wc:A_Protect_Wild_Rice_sign_outside_Aitkin_County_Courthouse_in_Aitkin,_Minnesota.jpg"
+caption=“A Protect Wild Rice sign outside Aitkin County Courthouse."
+fit=“contain”>
+
 Because manoomin is a non-human person according to Ojibwe worldview, with its own rights, it was able to serve as the plaintiff in the court case. The expansion of legal protections and human rights-type legal protections to non-human species and ecosystems incorporates elements of Traditional Ecological Knowledge worldviews by highlighting the connections between human and non-human persons. Potawatomi scientist [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer) characterizes this relationship as one of reciprocity, “rules of sorts that govern our taking, shape our relationships with the natural world, and rein in our tendency to consume... Reciprocity helps resolve the moral tension of taking a life by giving in return something of value that sustains the ones who sustain us.” The link between people, plant, and landscape evidenced in the relationship between the Ojibwe and wild rice serves as a framework for expanding notions of care and conservation. Recognizing the [rights of nature](https://news.climate.columbia.edu/2021/04/22/rights-of-nature-lawsuits/) finds its grounding in Indigenous worldviews and the activation of Traditional Ecological Knowledge.
+
+<param ve-image
+src=“wc:Parching_the_wild_rice_over_an_open_flame.jpg"
+caption=“Parching the wild rice over an open flame by stirring the wild rice inside a cast iron kettle at a wild rice camp."
+fit=“contain”>
 
 While the the case was not pursued further, and the state did not recognize the tribal jurisdiction over state matters like the issuing of water permits, _Manoomin v. Minnesota Department of Natural Resources_ sets an example of how the legal rights of nature may be invoked in order to protect both individual species and entire ecosystems. It provides one example of how human and plant relationships based upon this expanded worldview may be used as leverage within larger conservation efforts, and also points out larger power dynamics that still consider plants, and non-human species, as property. 
 
 From early botanical attempts at domestication in Europe and its role in newly created trade economies, to the more recent commercialization and breeding programs, wild rice serves as a key example of the role of plants as non-human persons in Indigenous worldviews and the interconnectedness and entanglement between plant, people, and landscape. The unique growing conditions and reciprocal dependencies between the Ojibwe and wild rice acknowledge the plant’s role within larger environmental, social, and moral contexts, evidenced in early travel accounts, visual representations, and ethnographical works. More recent legal recourse both complicates and denies this worldview and asks us to consider more broadly the agency of plants the impact of human and plant relationships on our ecosystems and landscapes today.
+
+<param ve-image
+src=“wc:Pipeline_Free_Manoomin_(Honor_the_Earth).jpg"
+caption=“Wild rice from Honor the Earth."
+fit=“contain”>
 
 
 
