@@ -5,7 +5,7 @@
        source-image=“insert
        banner=“insert
        height=100
-       author=“
+       author=“Flora Klein
        layout=vertical>
 
 # Introduction
