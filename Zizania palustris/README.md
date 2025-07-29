@@ -41,6 +41,10 @@ A special gift from the Creator that tied Anishinaabe people to lands, manoomin,
 # Traders, Treaties, and Usufructuary Rights
 
 Europeans first arrived in the Great Lakes region in the early seventeenth century, beginning with the French explorers and missionaries in the 1620s. The Ojibwe acted as guides, interpreters, and trading partners with the French, often using the Ojibwe language as the lingua franca in trading. Jacques Marquette, a French Jesuit missionary who was the first European to map the northern part of the Mississippi River Valley, described the “wild oat” as a “sort of grass,” which resembled the wild oats growing amidst wheat in France. The French were struck by the plant’s likeness, in their eyes, to the leguminous tare grass, and referred to wild rice as _folle avoine_, translated as “wild oats” or “fool oats.” Many compared the aquatic growing conditions of wild rice along lake and stream margins to the flooded rice [paddies](https://en.wikipedia.org/wiki/Paddy_field) used for rice cultivation in Asia. 
+<param ve-image
+src=“wc:20210715_Rice_farms_in_Yuanyang_County,_Henan.jpg"
+caption=“Rice farms in Yuanyang County, Henan."
+fit=“contain”>
 
 By the 1770s, a large-scale [fur trade](https://www.mnhs.org/fortsnelling/learn/fur-trade) had begun in the Great Lakes region, which lasted until the 1830s. Members of the Ojibwe acted as trading partners, guides, and interpreters for the French. Prior to the Ojibwe trade of wild rice with Europeans, other Indigenous nations, including the Sioux, Algonquin, and Menominee, had harvested wild rice. The [Menominee](https://en.wikipedia.org/wiki/Menominee) tribe specifically were referred to as _manoominiig_, or the “wild rice people” by both Ojibwe and French. As scholar Thomas Vennum wrote, “Each of these groups had a diversified economy and therefore depended upon wild rice for food and trade to differing degrees.” In other cases, wild rice provided a means to keep the Anishinaabeg out of trade dependencies with entities such as the Hudson’s Bay Company by providing a surplus trade good.
 
@@ -98,6 +102,9 @@ caption=“The pistilate glumes and floret, bottom, compared to the staminate sp
 fit=“contain”>
 
 Harvesting was not only a process of gathering but also a process of reseeding the plant for future harvests. Jenks wrote that “the plant, unless it is artificially sown, is gradually being extinguished in such beds as are continuously used.” The significant portion of seeds being knocked back into water rather than harvested in the canoe was not waste, but an active management strategy. Responsive to changing environmental conditions, the reseeding during harvest treats the landscape as a collaborator: wild rice seeds require submergence in the soil during undisturbed dormancy in order to remain viable. The aquatic landscape remains an active participant in the reseeding process, which highlights the importance of the landscape in maintaining a relationship between wild rice and humans. The artificial sowing of wild rice seeds is an activation of Traditional Ecological Knowledge.
+
+<param ve-video
+src=“HvLvwo3a5PU”>
 
 # Cultivation, Commodification, and Commercialization
 
